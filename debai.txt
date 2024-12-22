@@ -1,0 +1,9 @@
+Cài đặt cây AVL để nhập một dãy số cho trước (dãy cho trên lớp) thành một cây AVL 
+
+Yêu cầu:
+Cài đặt hàm nhập node mới
+Cài đặt hàm xoay đơn/kép
+Cài đặt hàm kiểm tra cân bằng
+Cài đặt hàm in cây AVL (theo thứ tự duyệt) 
+
+note: in ra từng bước cây sau khi duyệt
